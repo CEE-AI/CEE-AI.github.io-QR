@@ -6,7 +6,7 @@ body{
     min-height: 100vh;
 }
 
-.container{
+.card{
     flex-direction: column;
     background: #fff;
     font-family: 'outfit', sans-serif;
